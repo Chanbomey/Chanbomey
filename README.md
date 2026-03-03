@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Chanbomey. 
-I'm a currently a junior at California State University, Long Beach (CSULB). 
+I'm a junior at California State University, Long Beach (CSULB). 
 Majoring in Information Systems. 
 
 📊 Interested in Data Analytics & Predictive Modeling  
