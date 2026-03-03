@@ -25,5 +25,5 @@ I enjoy turning raw data into actionable insights. My academic work revolves aro
 
 
 📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/chanbomey-sunly-842870284/)
-Email: sunlychanbomey@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/chanbomey-sunly-842870284/)
+- Email: sunlychanbomey@gmail.com
