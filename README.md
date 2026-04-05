@@ -2,7 +2,7 @@
 
 My name is Chanbomey. 
 I'm a junior at California State University, Long Beach (CSULB). 
-Majoring in Information Systems. 
+Majoring in Business Administration, focusing on Information Systems. 
 
 📊 Interested in Data Analytics & Predictive Modeling  
 🤖 Exploring Machine Learning for real-world business problems  
@@ -19,7 +19,7 @@ I enjoy turning raw data into actionable insights. My academic work revolves aro
 
 
 ## Currently Learning
-- SQL for data querying and analysis
+- Building a deeper understanding of SQL and database concepts
 - Improving model evaluation techniques
 - Expanding into additional Machine Learning/Business Intelligence algorithms
 
