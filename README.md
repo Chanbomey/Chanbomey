@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 My name is Chanbomey. 
-I'm a junior at California State University, Long Beach (CSULB). 
+I am a senior at California State University, Long Beach (CSULB). 
 Majoring in Business Administration, focusing on Information Systems. 
 
 📊 Interested in Data Analytics & Predictive Modeling  
 🤖 Exploring Machine Learning for real-world business problems  
 
 ## About Me
-I enjoy turning raw data into actionable insights. My academic work focuses on machine learning, data analytics, predictive modeling, and decision-support visualizations. I’m process-oriented, detail-driven, and always curious about new ways to solve real-world business problems with data.
+I enjoy turning raw data into actionable insights. My academic work focuses on machine learning, data analytics, predictive modeling, and decision-support visualizations. I am process-oriented, detail-driven, and always curious about new ways to solve real-world business problems with data.
 
 
 ## Technical Skills
