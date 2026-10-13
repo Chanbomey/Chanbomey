@@ -8,20 +8,13 @@ Majoring in Business Administration, focusing on Information Systems.
 🤖 Exploring Machine Learning for real-world business problems  
 
 ## About Me
-I enjoy turning raw data into actionable insights. My academic work focuses on machine learning, data analytics, predictive modeling, and decision-support visualizations. I am process-oriented, detail-driven, and always curious about new ways to solve real-world business problems with data.
+I enjoy turning raw data into actionable insights. My academic work focuses on machine learning, data analytics, predictive modeling, and decision-support visualizations. I am process-oriented, detail-driven, and always curious about new ways to solve real world business problems with data.
 
 
 ## Technical Skills
 - **Programming:** Python (Pandas, Scikit-learn)
 - **Data Visualization:** Seaborn, Matplotlib
-- **Databases:** Relational Database Models, EERD
-- **Analytic Concepts:** CRISP-DM, EDA, Supervised Learning: Classification and Regression Modeling, Unsupervised Learning: Clustering and Association Rule Mining
-
-
-## Currently Learning
-- Building a deeper understanding of SQL and database concepts
-- Improving model evaluation techniques
-- Expanding into additional Machine Learning/Business Intelligence algorithms
+- **System Design:** ERD, UML
 
 
 Connect with me:  
